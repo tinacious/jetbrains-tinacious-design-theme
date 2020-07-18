@@ -4,9 +4,26 @@
 
 **Tinacious Design** is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 
-![](screenshot-webstorm.png)
+## WebStorm
 
-The editor theme above is Material UI Deep Ocean with `#ff3399` as the accent colour.
+### TypeScript
+
+![](screenshot-webstorm-typescript.png)
+
+
+### Vue
+
+![](screenshot-webstorm-vue.png)
+
+The Webstorm UI theme is Material UI Deep Ocean with `#ff3399` as the accent colour.
+
+## RubyMine
+
+### Ruby (RSpec)
+
+![](screenshot-rubymine-rspec.png)
+
+The Ruby Mine UI theme is Material UI Night Owl.
 
 
 ## Other Editors
