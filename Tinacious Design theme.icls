@@ -1,10 +1,10 @@
 <scheme name="Tinacious Design theme" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-11-12T14:44:59</property>
+    <property name="created">2020-11-12T15:09:44</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.3.0</property>
-    <property name="modified">2020-11-12T14:45:11</property>
+    <property name="modified">2020-11-12T15:10:05</property>
     <property name="originalScheme">Tinacious Design theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -105,7 +105,7 @@
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="ffcc66" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
@@ -135,27 +135,17 @@
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="ffcc66" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="ced1" />
       </value>
     </option>
     <option name="Abstract class name">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
-      </value>
-    </option>
-    <option name="Annotation">
-      <value>
-        <option name="FOREGROUND" value="c792ea" />
-      </value>
-    </option>
-    <option name="Anotation attribute name">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
     <option name="BACKGROUND">
@@ -312,7 +302,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f8f8f0" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -564,7 +554,7 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="c3d3de" />
+        <option name="FOREGROUND" value="9da8e3" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -837,11 +827,6 @@
     <option name="GO_TYPE_REFERENCE">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
-      </value>
-    </option>
-    <option name="Groovy method declaration">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
     <option name="HAML_CLASS">
@@ -1231,9 +1216,9 @@
         <option name="BACKGROUND" value="292d3e" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION">
+    <option name="KOTLIN_ANDROID_EXTENSIONS_PROPERTY_CALL">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="c9c9ea" />
       </value>
     </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
@@ -1243,12 +1228,12 @@
     </option>
     <option name="KOTLIN_COLON">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ced1" />
       </value>
     </option>
     <option name="KOTLIN_DOUBLE_COLON">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ced1" />
       </value>
     </option>
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
@@ -1261,7 +1246,7 @@
     </option>
     <option name="KOTLIN_EXCLEXCL">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ff3399" />
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
@@ -1272,11 +1257,6 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
-    <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
-    </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="ffcc66" />
@@ -1284,7 +1264,7 @@
     </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="bfff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1293,7 +1273,7 @@
     </option>
     <option name="KOTLIN_QUEST">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ced1" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
@@ -1314,9 +1294,9 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER">
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="c9c9ea" />
       </value>
     </option>
     <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
@@ -2719,7 +2699,7 @@
     </option>
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="ced1" />
       </value>
     </option>
     <option name="PHP.FUNCTION">
