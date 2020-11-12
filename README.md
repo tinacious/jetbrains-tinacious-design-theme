@@ -4,29 +4,55 @@
 
 **Tinacious Design** is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 
-## WebStorm
+## Examples
 
-### TypeScript
+- [Examples](#examples)
+  - [WebStorm](#webstorm)
+    - [TypeScript](#typescript)
+    - [Vue](#vue)
+  - [RubyMine](#rubymine)
+    - [Ruby (RSpec)](#ruby-rspec)
+  - [Android Studio](#android-studio)
+    - [Java](#java)
+    - [Kotlin](#kotlin)
+  - [Other Editors](#other-editors)
+
+
+### WebStorm
+
+#### TypeScript
 
 ![](screenshot-webstorm-typescript.png)
 
 
-### Vue
+#### Vue
 
 ![](screenshot-webstorm-vue.png)
 
 The Webstorm UI theme is Material UI Deep Ocean with `#ff3399` as the accent colour.
 
-## RubyMine
+### RubyMine
 
-### Ruby (RSpec)
+#### Ruby (RSpec)
 
 ![](screenshot-rubymine-rspec.png)
 
 The Ruby Mine UI theme is Material UI Night Owl.
 
 
-## Other Editors
+### Android Studio
+
+#### Java
+
+![](screenshot-androidstudio-java.png)
+
+
+#### Kotlin
+
+![](screenshot-androidstudio-kotlin.png)
+
+
+### Other Editors
 
 - [Visual Studio Code](https://github.com/tinacious/vscode-tinacious-design-syntax)
 - [iTerm](https://github.com/tinacious/iterm-tinacious-design-theme)
