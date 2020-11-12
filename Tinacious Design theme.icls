@@ -1,10 +1,10 @@
 <scheme name="Tinacious Design theme" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-07-18T14:14:40</property>
-    <property name="ide">Ruby</property>
-    <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-07-18T14:14:49</property>
+    <property name="created">2020-11-12T14:27:50</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.6.3.0</property>
+    <property name="modified">2020-11-12T14:28:46</property>
     <property name="originalScheme">Tinacious Design theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -1237,7 +1237,9 @@
       </value>
     </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="efefef" />
+      </value>
     </option>
     <option name="KOTLIN_COLON">
       <value>
