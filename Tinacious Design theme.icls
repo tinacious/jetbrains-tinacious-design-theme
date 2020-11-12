@@ -1,10 +1,10 @@
 <scheme name="Tinacious Design theme" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-11-12T14:27:50</property>
+    <property name="created">2020-11-12T14:33:48</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.3.0</property>
-    <property name="modified">2020-11-12T14:28:46</property>
+    <property name="modified">2020-11-12T14:33:57</property>
     <property name="originalScheme">Tinacious Design theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -1274,7 +1274,7 @@
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="ffcc66" />
       </value>
     </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
@@ -1312,6 +1312,11 @@
     <option name="KOTLIN_TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
+      <value>
+        <option name="FOREGROUND" value="c9c9ea" />
       </value>
     </option>
     <option name="LABEL">
