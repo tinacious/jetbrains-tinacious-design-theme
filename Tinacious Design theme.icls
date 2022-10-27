@@ -2702,6 +2702,9 @@
         <option name="FOREGROUND" value="ced1" />
       </value>
     </option>
+    <option name="PACKAGE_PRIVATE_REFERENCE">
+      <value />
+    </option>
     <option name="PHP.FUNCTION">
       <value>
         <option name="FOREGROUND" value="bfff" />
@@ -2835,10 +2838,19 @@
         <option name="FOREGROUND" value="eeffe3" />
       </value>
     </option>
+    <option name="PRIVATE_REFERENCE">
+      <value />
+    </option>
+    <option name="PROTECTED_REFERENCE">
+      <value />
+    </option>
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
       </value>
+    </option>
+    <option name="PUBLIC_REFERENCE">
+      <value />
     </option>
     <option name="PY.ANNOTATION">
       <value>
