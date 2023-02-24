@@ -89,8 +89,8 @@
     <option name="ScrollBar.hoverTrackColor" value="f111a" />
     <option name="ScrollBar.thumbColor" value="84ffffc0" />
     <option name="ScrollBar.trackColor" value="f111a" />
-    <option name="TAB_UNDERLINE" value="84ffff" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="84ffffc0" />
+    <option name="TAB_UNDERLINE" value="ff3399" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="68688c" />
     <option name="TEARLINE_COLOR" value="3b3f51" />
     <option name="TOOLTIP" value="292d3e" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="717cb4" />
